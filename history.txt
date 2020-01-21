@@ -1,0 +1,369 @@
+    1  sudo init 0
+    2  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+    3  sudo apt update
+    4  sudo apt install software-properties-common apt-transport-https wget
+    5  wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -
+    6  sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main"
+    7  sudo apt update
+    8  sudo apt install code
+    9  exit
+   10  sudo inti 0
+   11  sudo init 0
+   12  cd computer
+   13  cd Home
+   14  cd
+   15  ls
+   16  cd Documents
+   17  mk Floyd
+   18  mkdir Floyd
+   19  ls
+   20  cd FLoyd
+   21  ls
+   22  cd
+   23  ls
+   24  cd Downloads
+   25  ls
+   26  cd/
+   27  exit
+   28  sudo init 0
+   29  apt install python3-pip
+   30  # apt install python-pip
+   31  apt install python3-pip
+   32  apt-get install python3-pip
+   33  pip -V
+   34  sudo apy install python-pip3
+   35  /usr/bin/python3 /home/recruit/Desktop/Hello.py
+   36  pip -V
+   37  apt-get install python3-pip
+   38  sudo apt install python3-pip
+   39  /usr/bin/python3 /home/recruit/Desktop/Hello.py
+   40  /usr/bin/python3 -m pip install -U pylint --user
+   41  /usr/bin/python3 /home/recruit/Desktop/indentation.py
+   42  dpkg -l
+   43  ~
+   44  dkg -l
+   45  dpkg -l
+   46  ~/Documents
+   47  cd Documents
+   48  cd ~
+   49  cd Downloads
+   50  ls
+   51  cd ~
+   52  cd Desktop
+   53  ls
+   54  indentation.py
+   55  cs indentation.py
+   56  /usr/bin/python3 /home/recruit/Desktop/indentation.py
+   57  /usr/bin/python3 /home/recruit/Desktop/Challenge1.py
+   58  /usr/bin/python3 /home/recruit/Desktop/Challenge2.py
+   59  /usr/bin/python3 /home/recruit/Desktop/Challenge3.py
+   60  /usr/bin/python3 /home/recruit/Desktop/Challenge4.py
+   61  /usr/bin/python3 /home/recruit/Desktop/numbers.py
+   62  /usr/bin/python3 /home/recruit/Desktop/Challenge4.py
+   63  /usr/bin/python3 /home/recruit/Desktop/challenge5.py
+   64  /usr/bin/python3 /home/recruit/Desktop/challenge6.py
+   65  /usr/bin/python3 /home/recruit/Desktop/Challenge6.py
+   66  /usr/bin/python3 /home/recruit/Desktop/Challenge7.py
+   67  /usr/bin/python3 /home/recruit/Desktop/Challenge8.py
+   68  /usr/bin/python3 /home/recruit/Desktop/Challenge6.py
+   69  /usr/bin/python3 /home/recruit/Desktop/Challenge8.py
+   70  /usr/bin/python3 /home/recruit/Desktop/Challenge7.py
+   71  /usr/bin/python3 /home/recruit/Desktop/Challenge8.py
+   72  sudo init 0
+   73  /usr/bin/python3 /home/recruit/Desktop/Time.py
+   74  /usr/bin/python3 /home/recruit/Desktop/Challenge8.py
+   75  /usr/bin/python3 /home/recruit/Desktop/Time.py
+   76  /usr/bin/python3 /home/recruit/Desktop/Challenge8.py
+   77  /usr/bin/python3 /home/recruit/Desktop/Time.py
+   78  /usr/bin/python3 /home/recruit/Desktop/Challenge8.py
+   79  /usr/bin/python3 /home/recruit/Desktop/Challenge6.py
+   80  /usr/bin/python3 /home/recruit/Desktop/Challenge8.py
+   81  133
+   82  /usr/bin/python3 /home/recruit/Desktop/Challenge8.py
+   83  /usr/bin/python3 /home/recruit/Desktop/Challenge9.py
+   84  /usr/bin/python3 /home/recruit/Desktop/vowels.py
+   85  /usr/bin/python3 /home/recruit/Desktop/Challenge9.py
+   86  /usr/bin/python3 /home/recruit/Desktop/Wordz.py
+   87  /usr/bin/python3 /home/recruit/Desktop/Challenge9.py
+   88  /usr/bin/python3 /home/recruit/Desktop/Wordz.py
+   89  /usr/bin/python3 /home/recruit/Desktop/Challenge10.py
+   90  /usr/bin/python3 /home/recruit/Desktop/compare.py
+   91  /usr/bin/python3 /home/recruit/Desktop/Common.py
+   92  /usr/bin/python3 /home/recruit/Desktop/Challenge10.py
+   93  /usr/bin/python3 /home/recruit/Desktop/Challenge4.py
+   94  /usr/bin/python3 /home/recruit/Desktop/Challenge10.py
+   95  /usr/bin/python3 /home/recruit/Desktop/Compare.py
+   96  /usr/bin/python3 /home/recruit/Desktop/Challenge10.py
+   97  /usr/bin/python3 /home/recruit/Desktop/vwls.py
+   98  /usr/bin/python3 /home/recruit/Desktop/Challenge9.py
+   99  /usr/bin/python3 /home/recruit/Desktop/vwls.py
+  100  EIOU
+  101  /usr/bin/python3 /home/recruit/Desktop/vwls.py
+  102  /usr/bin/python3 /home/recruit/Desktop/Challenges/Challenge9.py
+  103  cd Desktop
+  104  ls
+  105  cd Documents
+  106  cd
+  107  ls
+  108  cd Documents
+  109  ls
+  110  rm -R Floyd
+  111  ls
+  112  cd
+  113  ls
+  114  cd Desktop
+  115  ls
+  116  mkdir Challenges
+  117  ls
+  118  cd Challenges
+  119  ls
+  120  cd
+  121  ls
+  122  cd Documents
+  123  cd
+  124  cd Desktop
+  125  ls
+  126  mv Challenge1.py Challenges/
+  127  ls
+  128  mv Challenge2.py Challenges/
+  129  mv Challenge3.py Challenges/
+  130  mv Challenge4.py Challenges/
+  131  mv Challenge5.py Challenges/
+  132  mv Challenge6.py Challenges/
+  133  mv Challenge7.py Challenges/
+  134  mv Challenge8.py Challenges/
+  135  mv Challenge9.py Challenges/
+  136  mv Challenge10.py Challenges/
+  137  ls
+  138  cd Challenges
+  139  ls
+  140  python3 Challenge1.py
+  141  python3 Challenge2.py
+  142  python3 Challenge3.py
+  143  python3 Challenge4.py
+  144  python3 Challenge5.py
+  145  python3 Challenge6.py
+  146  python3 Challenge7.py
+  147  python3 Challenge8.py
+  148  python3 Challenge9.py
+  149  python3 Challenge10.py
+  150  sudo restart
+  151  sudo init 6
+  152  sudo init 0
+  153  touch exercise.md
+  154  ls
+  155  mv exercise.md /tmp
+  156  rm /tmp/exercise.md
+  157  ls
+  158  cat > umuzi.md
+  159  cat > recruits.md
+  160  cat > cohort.md
+  161  echo  "I Love Umuzi" > umuzi.md
+  162  cat umuzi.md
+  163  cat > recruits.md
+  164  echo "Umuzi recruits are awesomecat > recruits.md" > recruits.md
+  165  cat > recruits.md
+  166  echo "Umuzi recruits are awesome" > recruits.md
+  167  cat recruits.md
+  168  cat > cohort.md
+  169  echo "I'm from cohort 20 group" > cohort.md
+  170  cat > cohort.md
+  171  cat cohort.md
+  172  echo "I'm from cohort 20 group" > cohort.md
+  173  cat cohort.md
+  174  cat umuzi.md recruits.md cohort.md
+  175  cat umuzi.md recruits.md cohort.md > summary.md
+  176  cat summary.md
+  177  echo 'The End' >> summary.md
+  178  cat summary.md
+  179  locate -i umuzi.md
+  180  locate umuzi
+  181  locate umuzi.md
+  182  sudo updatedb
+  183  123456r
+  184  sudo updatedb
+  185  locate umuzi
+  186  touch search_result.md
+  187  locate umuzi > search_result.md
+  188  cat search_result.md
+  189  ls
+  190  cd documents
+  191  cd Documents
+  192  touch pad.md
+  193  ls
+  194  cd Desktop
+  195  cd ~/Desktop
+  196  mkdir work
+  197  cp pad.md pad_copy.md
+  198  cd
+  199  cp pad.md pad_copy.md
+  200  cd Documents
+  201  cp pad.md pad_copy.md
+  202  locate updatedb
+  203  sudo updatedb
+  204  locate pad_copy.md
+  205  cd ..
+  206  cd Documents
+  207  cd
+  208  locate pad_copy.md
+  209  find ./GFG -name *.pdf
+  210  find ~ *.pdf
+  211  cd
+  212  find ~ *.pdf
+  213  locate ".pdf"
+  214  find ~/ -name *.pdf
+  215  locate ".pdf"
+  216  sudo updatedb
+  217  locate ".pdf"
+  218  sudo updatedb
+  219  locate ".pdf"
+  220  find ~/ -name *.pdf
+  221  ls
+  222  cd Desktop
+  223  find ~/ -name *.pdf
+  224  cd ..
+  225  cd Music
+  226  find ~/ -name *.pdf
+  227  find ~/ -name .pdf
+  228  find ~/ -name *.pdf
+  229  cd ..
+  230  cd..
+  231  cd ..
+  232  find ~/ -name *.pdf
+  233  find ~/ -name *.pdf > pdfResults
+  234  find ~/ -name *.pdf 
+  235  find ~/ -name *.pdf > pdfResults
+  236  ls
+  237  cd ..
+  238  find ~/ -name *.pdf
+  239  find ~/ -name *.pdf > pdfresults
+  240  ls
+  241  cd ~/home
+  242  cd ~/Home
+  243  cd ~Home
+  244  cd Documents
+  245  cd ..
+  246  cd
+  247  find ~/ -name *.pdf
+  248  find ~/ -name *.pdf > pdfresults
+  249  ls
+  250  cat pdfresults
+  251  cp pdfresults /Desktop
+  252  cp pdfresults /Documents
+  253  cd Documents
+  254  cd ..
+  255  cp pdfresults ~/Documents
+  256  cd Documents
+  257  ls
+  258  find -mtime -1 -ls
+  259  find -mtime -1 -print
+  260  find -mtime -0 -print
+  261  find -mtime  -ls
+  262  find -mtime -ls
+  263  find -mtime -1 -ls
+  264  find . -type -newermt 2020-01-16 -ls
+  265  find . -type f -newermt 2020-01-16 -ls
+  266  cd ..
+  267  find . -type f -newermt 2020-01-16 -ls
+  268  nano my_bio.md
+  269  ls
+  270  mkdir my_file.md
+  271  mv my_bio.md my_file.md
+  272  shutdown
+  273  shutdown now
+  274  jjj
+  275  find ~/ -name *.pdf
+  276  find . ~/ -mtime f newermt -1 -ls
+  277  find . ~/ -mtime f newermt -2020/01/16 -ls
+  278  find . ~/ mtime -f newermt -2020/01/16 -ls
+  279  find . ~/ mtime f newermt -2020/01/16 -ls
+  280  find . ~/ mtime .f newermt -2020/01/16 -ls
+  281  find . ~/ mtime .f newermt 2020/01/16 -ls
+  282  find . ~/ mtime .f newermt -2020/01/16 -ls
+  283  find . ~/ -mtime .f newermt 2020/01/16 -ls
+  284  find . ~/ -mtime f newermt 2020/01/16 -ls
+  285  find . ~/ -mtime .f -newermt 2020/01/16 -ls
+  286  find . ~/ mtime .f -newermt 2020/01/16 -ls
+  287  find . ~/ mtime .f -newermt -1 2020/01/16 -ls
+  288  find . ~/ mtime .f -newermt  2020/01/16 -1 -ls
+  289  find . ~/ mtime .f -newermt 2020/01/16 -ls
+  290  python --version
+  291  sudo apt install python3
+  292  python3 --version
+  293  find ~/ f .mtime newermt 2020/01/17 -ls
+  294  find ~/ f .mtime newermt 2020-01-17 -ls
+  295  find ~/ .f mtime newermt 2020-01-17 -ls
+  296  find ~/ f .mtime -newermt 2020-01-17 -ls
+  297  find ~/ f mtime -newermt 2020-01-17 -ls
+  298  find ~/ f .mtime -newermt 2020-01-17 -ls
+  299  find ~/ .f mtime -newermt 2020-01-17 -ls
+  300  find ~/ .f mtime .newermt 2020-01-17 -ls
+  301  find ~/ .f mtime .newermt 2020/01/17 -ls
+  302  find ~/ .f -mtime newermt 2020-01-17 -ls
+  303  find ~/ .f mtime newermt 2020-01-17 -ls
+  304  sudo nano /etc/crontab
+  305  shutdown now
+  306  sudo apt update
+  307  sudo apt install git
+  308  git --version
+  309  git help
+  310  git help -a
+  311  mkdir git-basic-exercises
+  312  cd git-basic-exercises
+  313  ls -a
+  314  git init
+  315  ls -a
+  316  git status
+  317  git log
+  318  touch README.md
+  319  ls -a
+  320  git status
+  321  git log
+  322  git add README.md
+  323  git status
+  324  git rm --cached README.md
+  325  git status
+  326  git rm --cached git-basic-exercises
+  327  git status
+  328  git commit -m "initial commit"
+  329  git add README.md
+  330  git status
+  331  git commit -m "initial commit"
+  332  git config --global user.email "thato.thupudi@umuzi.org"
+  333  git config --global user.name "thatothupudi"
+  334  git commit -m "initial commit"
+  335  git log
+  336  nano README.md
+  337  cat README.md
+  338  git status
+  339  git commit -a
+  340  git status
+  341  git commit -a
+  342  nano README.md
+  343  cat README.md
+  344  git commit -m "Third commit"
+  345  git log
+  346  git commit -a
+  347  git log
+  348  git checkout 8ac57e0e54d21d30c7632ec8c94ee19899929597
+  349  cat README.md
+  350  git checkout master
+  351  cat README.md
+  352  git branch
+  353  git checkout -b milkshake-flavours
+  354  git branch
+  355  git checkout master
+  356  git branch
+  357  git checkout milkshake-flavours
+  358  git branch
+  359  nano milkshakes.md
+  360  git status
+  361  git add .
+  362  git commit -m "added ninitial flavours"
+  363  git log
+  364  git checkout master
+  365  git log
+  366  git checkout -b history
+  367  git checkout history
+  368  git log
+  369  history > history.txt
